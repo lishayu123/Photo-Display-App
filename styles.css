@@ -1,0 +1,47 @@
+.blankheart {
+    width: 85px;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.heart {
+    width: 45px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.intro {
+    text-align: center;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color: white;
+
+}
+
+.both {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.post {
+    text-align: center;
+    color: white;
+}
+
+.totoro {
+    border: 10px solid #ffb3b3;
+}
+
+body {
+    background-image: url(" https://i.pinimg.com/originals/63/2f/de/632fde87dddcc5cbce1bcd7d0cb4a542.jpg");
+}
+
+.plus {
+    width: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
